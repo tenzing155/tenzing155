@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Tenzing Lama
-- 👀 I’m interested in Web Development, UI design
-- 🌱 I’m currently learning Python django
+- 👀 I’m interested in Web Development, UI design, Web Design, Coding
 - 📫 How to reach me https://www.linkedin.com/in/tenzing-lama-6a48aa315/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: one of the first climbers to reach Mount Everest.
+- ⚡ Fun fact: One of the first climbers to reach Mount Everest.
 
 <!---
 tenzing155/tenzing155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
